@@ -1,7 +1,7 @@
 # iTI2023
 Notebooks del libro "Introducción a las Tecnologías Inteligentes", edición 2023
 
-**Próxima publicación: 30 octubre 2023**
+**Próxima publicación: 30 octubre 2023 en Amazon** (Tapa blanda, ISBN: 978-84-09-55148-4)
 
 ![Portada](https://github.com/FranPuentes/iTI2023/blob/main/Portada-mini.png?raw=true)
 
