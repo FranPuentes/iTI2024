@@ -5,6 +5,8 @@ Notebooks del libro "Introducción a las Tecnologías Inteligentes", edición 20
 
 ![Portada](https://github.com/FranPuentes/iTI2023/blob/main/Portada-mini.png?raw=true)
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jfranpuentes)
+
 Este libro trata sobre inteligencia artificial y, aunque nació con la pretensión de ser un libro de texto, finalmente  tengo que reconocer que ha evolucionado y ahora descubro que también es un libro de divulgación que muestra aquellas tecnologías inteligentes que están llamando a la puerta de nuestras vidas. ¡Algunas de ellas con bastante insistencia!
 
 El texto cubre desde la introducción, historia y conceptos generales al aprendizaje profundo y sus complejas meta-arquitecturas, pasando por cómo solucionar problemas, visión artificial, el procesamiento del lenguaje natural, la ciencia de datos y el aprendizaje automático. Todo ellos dividido en cuatro secciones y un apéndice en donde muestro las principales herramientas que deberían conocerse y mi punto de vista sobre la metodología adecuada para leer, estudiar o impartir una materia de este área.
