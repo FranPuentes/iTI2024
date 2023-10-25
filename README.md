@@ -1,5 +1,5 @@
-# iTI2023
-Notebooks del libro "Introducción a las Tecnologías Inteligentes", edición 2023
+# iTI2024
+Notebooks del libro "Introducción a las Tecnologías Inteligentes", edición 2024
 
 **Próxima publicación: 30 octubre 2023 en Amazon** (Tapa blanda, ISBN: 978-84-09-55148-4)
 
@@ -17,9 +17,9 @@ Además tienes el soporte de **este repositorio** con el código del libro y má
 Un cordial saludo.
 
 ----
-Notebooks of the book "Introduction to Smart Technologies", 2023 edition
+Notebooks of the book "Introduction to Smart Technologies", 2024 edition
 
-**Forthcoming 2nd half October 2023**
+**Forthcoming 2nd half October 2024**
 
 This book is about artificial intelligence and, although it was born with the pretension of being a textbook, I have to admit that it has evolved and now I discover that it is also a popularisation book that shows those intelligent technologies that are knocking at the door of our lives, some of them quite insistently!
 
