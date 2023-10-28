@@ -3,9 +3,9 @@ Notebooks del libro "Introducción a las Tecnologías Inteligentes", edición 20
 
 **Próxima publicación: 30 octubre 2023 en Amazon**
 
-ISBN: **978-84-09-55148-4** (tapa blanda)
+ISBN: [**978-84-09-55148-4**](https://www.amazon.es/dp/8409551489) (tapa blanda)
 
-ISBN: **978-84-09-55779-0** (tapa dura)
+ISBN: [**978-84-09-55779-0**](https://www.amazon.es/dp/8409551489) (tapa dura)
 
 ![Portada](https://github.com/FranPuentes/iTI2023/blob/main/Portada-mini.png?raw=true)
 
