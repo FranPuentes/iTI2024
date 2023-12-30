@@ -23,7 +23,7 @@ Un cordial saludo.
 ----
 Notebooks of the book "Introduction to Smart Technologies", 2024 edition
 
-**Forthcoming 2nd half October 2024**
+**Forthcoming 2nd half October 2023**
 
 This book is about artificial intelligence and, although it was born with the pretension of being a textbook, I have to admit that it has evolved and now I discover that it is also a popularisation book that shows those intelligent technologies that are knocking at the door of our lives, some of them quite insistently!
 
