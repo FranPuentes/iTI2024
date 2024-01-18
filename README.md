@@ -1,7 +1,7 @@
 # iTI2024
 Notebooks del libro "Introducción a las Tecnologías Inteligentes", edición 2024
 
-**Publicación: 30 octubre 2023 en Amazon**
+**Release: 30 October 2023 on Amazon**
 
 ISBN: [**978-84-09-55148-4**](https://www.amazon.es/dp/8409551489) (tapa blanda)
 
